@@ -15,6 +15,10 @@ Razer Blade 14 (2022): performance profiles, fan curves, per-key RGB animations,
 battery charge limit and a tray app. GTK4/libadwaita, no kernel module, no
 daemon, no vendor account.
 
+**[BetterRGB](https://github.com/EpicYamo/BetterRGB)** — per-key RGB control for
+Tongfang/ITE8291 gaming laptops, reverse-engineered from USB traffic and written
+from scratch in C for Windows.
+
 **[PrismRT](https://github.com/EpicYamo/PrismRT)** — a CPU ray tracer with a
 real-time scene editor: Phong lighting, XPM textures, bump mapping, gizmos,
 undo/redo and a handful of extra primitives. C and MiniLibX.
@@ -30,10 +34,6 @@ environment handling.
 **[philosophers](https://github.com/EpicYamo/philosophers)** — the dining
 philosophers with threads (mutexes) and with processes (named semaphores),
 including death detection without shared memory.
-
-**[BetterRGB](https://github.com/EpicYamo/BetterRGB)** — per-key RGB control for
-Tongfang/ITE8291 gaming laptops, reverse-engineered from USB traffic and written
-from scratch in C for Windows.
 
 ## Toolbox
 
