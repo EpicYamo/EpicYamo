@@ -6,9 +6,10 @@ where software has to talk to hardware.
 
 ## Featured projects
 
-**[lonca](https://github.com/EpicYamo/lonca)** — Foundation-heritage mini-apps
-powered by our custom AI journeyman: it researches verified records and builds
-with Lonca’s SDK; the server validates generated code before preview.
+**[lonca](https://github.com/EpicYamo/lonca)** — Lonca’s dedicated AI agent can 
+create Foundation-heritage mini-applications by listening to the requests of the master; 
+in this process, it utilizes verified data and builds the application using Lonca’s 
+software development kit (SDK).
 
 **[ophis](https://github.com/EpicYamo/ophis)** — a Linux control centre for the
 Razer Blade 14 (2022): performance profiles, fan curves, per-key RGB animations,
